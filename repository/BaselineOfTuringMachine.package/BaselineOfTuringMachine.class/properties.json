@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfTuringMachine",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfTuringMachine",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
