@@ -1,0 +1,15 @@
+{
+	"category" : "TuringMachine-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/10/2015 18:00",
+	"instvars" : [
+		"currentCell",
+		"dataList" ],
+	"name" : "TMTape",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

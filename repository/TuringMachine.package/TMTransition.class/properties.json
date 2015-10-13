@@ -1,0 +1,16 @@
+{
+	"category" : "TuringMachine-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/11/2015 15:37",
+	"instvars" : [
+		"write",
+		"moveHead",
+		"moveTo" ],
+	"name" : "TMTransition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

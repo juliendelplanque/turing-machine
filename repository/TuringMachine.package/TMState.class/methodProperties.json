@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"named:" : "JulienDelplanque 10/10/2015 22:56" },
+	"instance" : {
+		"actionDict" : "JulienDelplanque 10/12/2015 07:06",
+		"initialize" : "JulienDelplanque 10/10/2015 18:51",
+		"printOn:" : "JulienDelplanque 10/12/2015 10:02",
+		"readSymbolPointedBy:using:" : "JulienDelplanque 10/11/2015 16:30",
+		"stateName" : "JulienDelplanque 10/10/2015 18:24",
+		"stateName:" : "JulienDelplanque 10/10/2015 18:24",
+		"when:do:" : "JulienDelplanque 10/11/2015 16:24",
+		"when:write:moveHead:andMoveTo:" : "JulienDelplanque 10/12/2015 08:22" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "TuringMachine-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/11/2015 11:40",
+	"instvars" : [
+		"stateName",
+		"actionDict" ],
+	"name" : "TMState",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

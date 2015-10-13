@@ -1,0 +1,14 @@
+{
+	"category" : "TuringMachine-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 10/11/2015 16:26",
+	"instvars" : [
+		 ],
+	"name" : "TMRejectState",
+	"pools" : [
+		 ],
+	"super" : "TMState",
+	"type" : "normal" }

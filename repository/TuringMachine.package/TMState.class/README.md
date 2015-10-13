@@ -1,0 +1,1 @@
+I am a state of the Turing Machine. I am defined by a stateName and an action to do according to the symbol read (this is defined using #when:do: message).

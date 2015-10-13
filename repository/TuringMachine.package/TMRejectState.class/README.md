@@ -1,0 +1,1 @@
+I represent the 'reject' special state. My stateName is 'reject' and my #readSymbolOn: message does nothing since I mark the end of the turing machine's execution.

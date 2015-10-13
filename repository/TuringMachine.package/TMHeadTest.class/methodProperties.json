@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JulienDelplanque 10/12/2015 06:54",
+		"testL" : "JulienDelplanque 10/12/2015 06:57",
+		"testLeft" : "JulienDelplanque 10/12/2015 06:58",
+		"testN" : "JulienDelplanque 10/12/2015 06:58",
+		"testNone" : "JulienDelplanque 10/12/2015 06:58",
+		"testR" : "JulienDelplanque 10/12/2015 06:59",
+		"testRead" : "JulienDelplanque 10/12/2015 07:00",
+		"testRight" : "JulienDelplanque 10/12/2015 06:59",
+		"testWrite" : "JulienDelplanque 10/12/2015 07:02" } }

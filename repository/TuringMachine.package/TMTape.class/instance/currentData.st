@@ -1,0 +1,3 @@
+accessing
+currentData
+	^ currentCell value
