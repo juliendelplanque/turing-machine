@@ -2,4 +2,4 @@ machine manipulation
 reject
 	"Return the reject state."
 	
-	^ TMRejectState new
+	^ rejectState ifNil: [ rejectState := TMRejectState new ]

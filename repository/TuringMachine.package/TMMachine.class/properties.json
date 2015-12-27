@@ -8,7 +8,9 @@
 	"instvars" : [
 		"initialState",
 		"currentState",
-		"head" ],
+		"head",
+		"acceptState",
+		"rejectState" ],
 	"name" : "TMMachine",
 	"pools" : [
 		 ],

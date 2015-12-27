@@ -2,4 +2,4 @@ machine manipulation
 accept
 	"Return the accept state."
 	
-	^ TMAcceptState new
+	^ acceptState ifNil: [ acceptState := TMAcceptState new ]
