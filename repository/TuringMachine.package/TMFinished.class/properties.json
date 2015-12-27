@@ -1,0 +1,14 @@
+{
+	"category" : "TuringMachine-Announcement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TMFinished",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

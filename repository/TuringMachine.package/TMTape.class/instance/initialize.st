@@ -3,4 +3,5 @@ initialize
 	super initialize.
 	dataList := DoubleLinkedList new.
 	dataList addLast: $ç.
-	currentCell := dataList firstLink
+	currentCell := dataList firstLink.
+	index := 1.

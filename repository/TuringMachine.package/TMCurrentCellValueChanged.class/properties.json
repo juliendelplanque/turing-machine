@@ -1,0 +1,14 @@
+{
+	"category" : "TuringMachine-Announcement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"newValue" ],
+	"name" : "TMCurrentCellValueChanged",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

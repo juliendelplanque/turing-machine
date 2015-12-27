@@ -1,7 +1,7 @@
 {
 	"category" : "TuringMachine-Core",
 	"classinstvars" : [
-		 ],
+		"millisec" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "JulienDelplanque 10/11/2015 11:39",
