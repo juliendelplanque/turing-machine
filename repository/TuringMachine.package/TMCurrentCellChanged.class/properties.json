@@ -4,7 +4,7 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "JulienDelplanque 12/28/2015 11:29",
 	"instvars" : [
 		"cellIndex" ],
 	"name" : "TMCurrentCellChanged",

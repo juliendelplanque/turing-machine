@@ -1,0 +1,1 @@
+I announce the fact that a Turing Machine finished (is on accept or reject state).
