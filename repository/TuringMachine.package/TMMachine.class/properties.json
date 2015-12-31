@@ -10,7 +10,8 @@
 		"currentState",
 		"head",
 		"acceptState",
-		"rejectState" ],
+		"rejectState",
+		"announcer" ],
 	"name" : "TMMachine",
 	"pools" : [
 		 ],
