@@ -1,0 +1,14 @@
+{
+	"category" : "TuringMachine-Announcement",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JulienDelplanque 1/3/2016 12:48",
+	"instvars" : [
+		"turingMachine" ],
+	"name" : "TMReset",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

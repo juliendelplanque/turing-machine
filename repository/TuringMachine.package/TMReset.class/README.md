@@ -1,0 +1,1 @@
+I announce the fact that a Turing Machine were reset.
