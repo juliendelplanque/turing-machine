@@ -9,6 +9,6 @@ Metacello new
     load.
 ~~~
 
-## Article
-Read the [article](https://medium.com/concerning-pharo/a-turing-machine-simulator-written-in-pharo-fda74e1a705b#.xt2e27kf6).
+## Medium's story
+Read the [story](https://medium.com/concerning-pharo/a-turing-machine-simulator-written-in-pharo-fda74e1a705b#.xt2e27kf6).
 
